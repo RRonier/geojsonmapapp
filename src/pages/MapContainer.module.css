@@ -1,0 +1,12 @@
+.mapContainer {
+    display: flex;
+    justify-content: space-around;
+}
+.selectContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+}
